@@ -13,10 +13,11 @@ breakpoint()
 # PDB Commands
 #-------------
 
+(l)ist - list 11 lines surrounding the current line
 (n)ext - step over
 (s)tep - into 
 (c)ontinue - continue until the next breakpoint
+(b)breakpoint - set breakpoint at line number, e.g. b 12
 (w)here - stack trace
-(l)ist - list lines surrounding the current line
 (h)elp - show help
 (q)uit - quit debugger
