@@ -1,6 +1,5 @@
 # Workshop Name
-[description]
-
+There is nothing more frustrating than when your code does not run as expected, or completely fails to run! Python offers a number of ways to "debug" your code, and understand what went wrong and how to fix it. Join Data Services for this Data Bytes session for some tips and tools on how to debug your own Python programs.
 
 ## JHU Data Services   
 Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
@@ -12,22 +11,16 @@ This repository contains materials for one of our live webinars open to JHU stud
 As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
 
 
-## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
-
-
 ## Description of Files
-- Data: This folder contains raw data files to be used during hands-on activities in the workshop
 - In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
+    - debugging_python.py
+    - pdb_commands.md
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
 - Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [link name](url)
+If you have taken the live webinar for this class, please take this survey: [Data Bytes Survey](https://bit.ly/data-bytes-survey)
 
 
 ## License and Terms of Use
