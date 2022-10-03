@@ -24,6 +24,7 @@
 ### Interact ---------------------------------
 p <name>     - print variable <name> contents
 !<expr>      - execute Python code <expr>
+args         - get list of arguments declared in current function
 run<args>    - restart pdb with arguments provided
 q(uit)       - exit pdb
 
