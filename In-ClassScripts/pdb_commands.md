@@ -32,7 +32,6 @@ q(uit)       - exit pdb
 ```python
 import pdb; pdb.set_trace()
 ```
-
 # Loading PDB Python 3.7 and on
 
 ```python
