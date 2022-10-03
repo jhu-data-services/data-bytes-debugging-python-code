@@ -6,5 +6,5 @@ def func2(x):
     b = x - 1
     return func1(a, b)
 
-for val in range(5, 1, -1):
+for val in range(5, 0, -1):
     func2(val)
