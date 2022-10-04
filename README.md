@@ -1,4 +1,4 @@
-# Debugging Python Code
+# Debugging your Python Code
 There is nothing more frustrating than when your code does not run as expected, or completely fails to run! Python offers a number of ways to "debug" your code, and understand what went wrong and how to fix it. Join Data Services for this Data Bytes session for some tips and tools on how to debug your own Python programs.
 
 ## JHU Data Services   
