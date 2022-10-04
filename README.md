@@ -14,6 +14,7 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 ## Description of Files
 - In-ClassScripts: This folder contains code files you will need for the workshop:
     - `debugging_python.py` - A Python file containing a simple two function script with two errors present, a type error and a divide by zero eror.
+    - `debugging_python.ipynb` - A iPython Notebook containing the same functions as debugging_python.py, along with a iPython magic function for running `ipdb` in Jupyter Notebook.
     - `pdb_commands.md` - A markdown file containing common pdb (Python Debugger) commands with brief descriptions.
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop:
     - `DebuggingPythonCode.pdf` - Slides for the workshop.
