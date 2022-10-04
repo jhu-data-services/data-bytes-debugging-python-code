@@ -13,11 +13,12 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 
 ## Description of Files
 - In-ClassScripts: This folder contains code files you will need for the workshop:
-    - debugging_python.py
-    - pdb_commands.md
-- PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
-- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
-
+    - `debugging_python.py` - A Python file containing a simple two function script with two errors present, a type error and a divide by zero eror.
+    - `pdb_commands.md` - A markdown file containing common pdb (Python Debugger) commands with brief descriptions.
+- PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop:
+    - `DebuggingPythonCode.pdf` - Slides for the workshop.
+- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning:
+    - `PythonDebuggerCheatsheet.pdf` - A cheatsheet containing all of the pdb commands needed for debugging your python code.
 
 ## Post-Class Survey
 If you have taken the live webinar for this class, please take this survey: [Data Bytes Survey](https://bit.ly/data-bytes-survey)
@@ -33,4 +34,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+Johns Hopkins University Data Services. October 3rd, 2022. Debugging Python Code. [https://github.com/jhu-data-services/data-bytes-debugging-python-code](https://github.com/jhu-data-services/data-bytes-debugging-python-code)
